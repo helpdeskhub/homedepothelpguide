@@ -96,19 +96,12 @@ As a homeowner and regular DIY shopper, I’ve been using the **Home Depot Consu
 Quick Access Links
 ------------------
 
-+----------------------------------------+----------------------------------------------------------+
-| Action                                 | Link                                                     |
-+========================================+==========================================================+
-| Home Depot Card Login                  | https://www.homedepot.com/mycard                         |
-+----------------------------------------+----------------------------------------------------------+
-| Pay My Bill                            | https://www.citibankonline.com                           |
-+----------------------------------------+----------------------------------------------------------+
-| Register Your Card                     | https://www.citibankonline.com/US/JPS/portal/CardApply/Flow.action |
-+----------------------------------------+----------------------------------------------------------+
-| Forgot User ID or Password             | Use links on login page                                  |
-+----------------------------------------+----------------------------------------------------------+
-| Customer Support (Consumer Card)       | 1-800-677-0232                                           |
-+----------------------------------------+----------------------------------------------------------+
+- **Home Depot Card Login:-** https://www.homedepot.com/mycard
+- **Pay My Bill:-** https://www.citibankonline.com                           
+- **Home Depot Card Login:**- https://www.homedepot.com/mycard                      
+- **Pay My Bill:-** https://www.citibankonline.com                          
+- **Register Your Card:-** https://www.citibankonline.com/US/JPS/portal/CardApply/Flow.action 
+
 
 FAQs: Common Questions Answered
 -------------------------------
