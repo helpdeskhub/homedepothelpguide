@@ -1,7 +1,7 @@
 Homedepot.com/mycard – Home Depot My Card Login Step-by-Step Guide
 =====================================================================
 
-Are you trying to log into your Home Depot credit card account via homedepot.com/mycard? Whether you want to view statements, pay bills, or manage your Home Depot card online, this simple step-by-step guide has you covered.
+Are you trying to log into your Home Depot credit card account via `homedepot.com/mycard <https://www.homedepot.com/mycard>`_? Whether you want to view statements, pay bills, or manage your Home Depot card online, this simple step-by-step guide has you covered.
 
 
 
@@ -27,7 +27,7 @@ Step-by-Step: How to Log Into Home Depot My Card
 --------------------------------------------------
 
 1. **Go to the Login Page**  
-   Visit: https://www.homedepot.com/mycard  
+   Visit: `homedepot.com/mycard <https://www.homedepot.com/mycard>`_ 
    This redirects to the Citi Bank login page for Home Depot cardholders.
 
 2. **Enter Your Login Credentials**  
@@ -64,7 +64,7 @@ Mobile Access
 
 You can manage your card using:
 
-- Your **mobile browser** at https://www.homedepot.com/mycard
+- Your **mobile browser** at `homedepot.com/mycard <https://www.homedepot.com/mycard>`_
 - The official **Citi Mobile App** (available for iOS and Android)
 
 Troubleshooting Login Issues
