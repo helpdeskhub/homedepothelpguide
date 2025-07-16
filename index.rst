@@ -123,7 +123,6 @@ Bookmark the login page to avoid phishing or fake links. Use AutoPay to avoid la
 
 .. raw:: html
 
-
 <script>
   var _paq = window._paq = window._paq || [];
   /* tracker methods like "setCustomDimension" should be called before "trackPageView" */
