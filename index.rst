@@ -53,7 +53,7 @@ You can use this portal to manage:
 How to Pay Your Home Depot Bill Online
 ---------------------------------------
 
-1. Sign in at: https://www.homedepot.com/mycard  
+1. Sign in at: `homedepot.com/mycard <https://www.homedepot.com/mycard>`_
 2. Click on the **Payments** tab  
 3. Add or select a **bank account**  
 4. Choose your **payment amount and date**  
